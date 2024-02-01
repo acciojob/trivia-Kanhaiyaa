@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+    body{
+        width: 600px;
+        margin: 10px;
+        background-color: #f8fffe;
+        /* font-weight: bold; */
+    }
+
+    #nct{
+        border-left: 8px solid green;
+        padding: 16px;
+
+    }
